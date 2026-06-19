@@ -1,8 +1,6 @@
 # 🔗 Full Stack AI Chatbot — Frontend + Backend Connected
 
-> My first real full-stack application. A Streamlit frontend  
-> talking to a secured FastAPI backend over HTTP, with JWT  
-> authentication flowing through the entire system.  
+> My first real full-stack application. A Streamlit frontend talking to a secured FastAPI backend over HTTP, with JWT authentication flowing through the entire system.  
 > Day 19 of my 4-month AI Engineering journey.
 
 ---
@@ -97,7 +95,7 @@ day19-fullstack/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/PrashikSawant/day19-fullstack.git
+git clone https://github.com/PrashikSawant/Full-Stack-AI-Chatbot
 
 cd day19-fullstack
 ```
