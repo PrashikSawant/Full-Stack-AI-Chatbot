@@ -261,7 +261,3 @@ I’m building projects daily to learn:
 ✅ Completed — Day 19
 
 ---
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
